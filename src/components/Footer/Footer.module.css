@@ -10,3 +10,9 @@
     text-decoration: none;
     cursor: pointer;
 }
+.footerAnchorLarge {
+    font-size: 1.25rem;
+}
+.footerAnchorSmall {
+    font-size: 0.625rem;
+}
