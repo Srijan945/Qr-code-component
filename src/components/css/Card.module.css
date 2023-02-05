@@ -1,0 +1,27 @@
+.card {
+    width: 18.75rem;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 0.75rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.qrCode img{
+    width: 100%;
+    border-radius: 0.5rem;
+}
+.cardDescription {
+    text-align: center;
+    padding: 0 0.625rem;
+}
+.descriptionHeading {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+}
+.descriptionInfo {
+    font-size: 0.9375rem;
+    color: hsl(220, 15%, 55%);
+}
