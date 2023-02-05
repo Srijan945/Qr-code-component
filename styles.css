@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+}
+body {
+    margin: 0;
+    width: 100%;
+    min-height: 100vh;
+    background-color: hsl(212, 45%, 89%);
+}
+#root {
+    width: 100%;
+    min-height: 100vh;
+}
